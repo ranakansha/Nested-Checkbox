@@ -65,3 +65,8 @@ if someone click on checkbox then open another checkbox through javascriptand bo
 </html>
 
 ```
+
+so in the above code if you click on ots then it will show another ots element like 2ots or 3 ots.
+
+## Output
+
